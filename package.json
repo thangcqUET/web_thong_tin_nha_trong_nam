@@ -1,0 +1,13 @@
+{
+  "name": "web_thong_tin_nha_trong_nam",
+  "version": "1.0.0",
+  "description": "IoT application",
+  "main": "./back_end/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
